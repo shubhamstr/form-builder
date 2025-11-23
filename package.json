@@ -1,0 +1,19 @@
+{
+  "name": "@shubhamstr/form-builder",
+  "version": "1.0.0",
+  "description": "Form builder powered by JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form",
+    "builder",
+    "forms",
+    "builder",
+    "json",
+    "forms"
+  ],
+  "author": "shubhamstr",
+  "license": "ISC"
+}
