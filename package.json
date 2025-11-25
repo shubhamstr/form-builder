@@ -1,6 +1,6 @@
 {
   "name": "@shubhamstr/form-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Form builder powered by JSON",
   "main": "index.js",
   "scripts": {
