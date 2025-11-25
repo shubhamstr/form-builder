@@ -20,10 +20,6 @@ A lightweight, plug-and-play, JSON-based form builder for React applications. Bu
 npm install @shubhamstr/form-builder
 ```
 
-```
-yarn add @shubhamstr/form-builder
-```
-
 ---
 
 ## 📄 Basic Usage
@@ -207,19 +203,8 @@ Each form field is an object in the schema array.
 ```jsx
 <FormBuilder
   schema={schema}
-  initialValues={{ fullName: "Shubham", country: "India", active: true }}
 />
 ```
-
----
-
-## 🧱 Roadmap
-
-* Validation messages
-* Custom components
-* Conditional fields
-* Yup/Zod integration
-* Theme support
 
 ---
 
@@ -231,7 +216,3 @@ Each form field is an object in the schema array.
 4. Open PR
 
 ---
-
-## 📄 License
-
-MIT © 2025 — Shubham Sutar
